@@ -1,8 +1,6 @@
-# rn-assignment2-ID-11116940
+# React Native Assignment 2
 
-## Student ID
-
-11116940
+### Student ID - 11116940
 
 ## Description
 
